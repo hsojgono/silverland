@@ -1,0 +1,47 @@
+[
+    {
+        "BADGENUMBER": "0772",
+        "CHECKINOUT": [
+            {
+                "CHECKTIME": "2018-01-31T08:15:01",
+                "CHECKTYPE": "I"
+            }
+        ]
+    },
+    {
+        "BADGENUMBER": "0771",
+        "CHECKINOUT": [
+            {
+                "CHECKTIME": "2018-01-31T08:16:18",
+                "CHECKTYPE": "I"
+            }
+        ]
+    },
+    {
+        "BADGENUMBER": "0811",
+        "CHECKINOUT": [
+            {
+                "CHECKTIME": "2018-01-31T08:22:27",
+                "CHECKTYPE": "I"
+            }
+        ]
+    },
+    {
+        "BADGENUMBER": "0839",
+        "CHECKINOUT": [
+            {
+                "CHECKTIME": "2018-01-31T08:30:10",
+                "CHECKTYPE": "I"
+            }
+        ]
+    },
+    {
+        "BADGENUMBER": "0893",
+        "CHECKINOUT": [
+            {
+                "CHECKTIME": "2018-01-31T08:31:57",
+                "CHECKTYPE": "I"
+            }
+        ]
+    }
+]

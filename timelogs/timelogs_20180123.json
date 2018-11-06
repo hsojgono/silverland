@@ -1,0 +1,29 @@
+[
+    {
+        "BADGENUMBER": "100001",
+        "CHECKINOUT": [
+            {
+                "CHECKTIME": "2018-01-23T00:01:23",
+                "CHECKTYPE": "I"
+            }
+        ]
+    },
+    {
+        "BADGENUMBER": "100002",
+        "CHECKINOUT": [
+            {
+                "CHECKTIME": "2018-01-23T00:01:29",
+                "CHECKTYPE": "I"
+            }
+        ]
+    },
+    {
+        "BADGENUMBER": "100003",
+        "CHECKINOUT": [
+            {
+                "CHECKTIME": "2018-01-23T00:01:26",
+                "CHECKTYPE": "I"
+            }
+        ]
+    }
+]

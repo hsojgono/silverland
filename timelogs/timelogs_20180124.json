@@ -1,0 +1,1395 @@
+[
+  {
+    "BADGENUMBER": "100003",
+    "CHECKINOUT": [
+      {
+        "CHECKTIME": "2018-01-18T07:15:12",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-18T17:12:23",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-19T07:24:00",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-19T17:24:07",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-20T17:14:19",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-20T17:14:26",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-22T07:25:33",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-22T17:06:57",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-23T07:33:02",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-23T17:05:47",
+        "CHECKTYPE": "O"
+      }
+    ]
+  },
+  {
+    "BADGENUMBER": "100006",
+    "CHECKINOUT": [
+      {
+        "CHECKTIME": "2018-01-18T07:03:45",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-18T16:35:29",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-19T08:58:23",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-19T09:09:11",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-19T17:18:02",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-20T08:01:39",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-20T12:22:20",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-23T08:03:00",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-23T17:04:42",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-24T07:56:34",
+        "CHECKTYPE": "I"
+      }
+    ]
+  },
+  {
+    "BADGENUMBER": "200001",
+    "CHECKINOUT": [
+      {
+        "CHECKTIME": "2018-01-17T17:27:08",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-17T17:28:35",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-18T07:15:03",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-18T17:12:07",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-19T07:23:48",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-19T17:18:20",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-19T17:18:21",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-19T17:24:45",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-22T07:25:23",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-22T17:03:30",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-23T07:33:22",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-23T17:09:52",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-24T07:38:02",
+        "CHECKTYPE": "I"
+      }
+    ]
+  },
+  {
+    "BADGENUMBER": "200002",
+    "CHECKINOUT": [
+      {
+        "CHECKTIME": "2018-01-18T09:04:39",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-18T16:35:07",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-19T09:25:34",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-19T17:10:12",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-20T08:24:56",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-23T09:59:58",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-23T17:10:02",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-24T08:27:36",
+        "CHECKTYPE": "I"
+      }
+    ]
+  },
+  {
+    "BADGENUMBER": "200003",
+    "CHECKINOUT": [
+      {
+        "CHECKTIME": "2018-01-17T17:26:29",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-17T17:27:32",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-17T17:27:46",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-18T07:07:12",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-18T18:40:11",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-19T06:15:37",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-22T07:16:21",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-22T07:16:30",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-22T17:02:12",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-22T17:02:22",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-23T07:22:34",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-23T07:23:34",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-23T18:39:38",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-24T07:06:02",
+        "CHECKTYPE": "I"
+      }
+    ]
+  },
+  {
+    "BADGENUMBER": "200004",
+    "CHECKINOUT": [
+      {
+        "CHECKTIME": "2018-01-17T17:26:56",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-18T07:26:02",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-18T12:00:09",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-18T12:50:33",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-18T17:11:13",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-19T07:27:59",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-19T17:18:30",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-19T17:24:50",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-19T17:24:52",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-22T07:23:08",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-22T12:00:35",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-22T12:56:30",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-22T17:07:19",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-23T07:27:57",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-23T12:02:30",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-23T12:52:49",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-23T17:40:51",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-24T07:32:37",
+        "CHECKTYPE": "I"
+      }
+    ]
+  },
+  {
+    "BADGENUMBER": "200005",
+    "CHECKINOUT": [
+      {
+        "CHECKTIME": "2018-01-17T17:27:02",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-17T17:28:28",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-18T07:23:51",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-18T07:23:53",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-18T17:12:02",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-18T17:12:17",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-19T07:28:57",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-19T17:24:20",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-22T07:25:28",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-22T17:04:24",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-23T07:32:59",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-24T07:37:48",
+        "CHECKTYPE": "I"
+      }
+    ]
+  },
+  {
+    "BADGENUMBER": "200007",
+    "CHECKINOUT": [
+      {
+        "CHECKTIME": "2018-01-19T09:55:32",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-19T09:55:42",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-19T11:51:23",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-19T15:33:26",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-20T16:29:01",
+        "CHECKTYPE": "I"
+      }
+    ]
+  },
+  {
+    "BADGENUMBER": "200008",
+    "CHECKINOUT": [
+      {
+        "CHECKTIME": "2018-01-17T17:27:22",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-17T17:28:43",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-18T07:15:25",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-18T17:12:29",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-19T07:24:29",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-19T17:24:13",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-20T09:02:06",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-20T17:23:32",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-22T07:55:14",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-22T17:05:59",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-23T07:19:19",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-24T07:31:06",
+        "CHECKTYPE": "I"
+      }
+    ]
+  },
+  {
+    "BADGENUMBER": "300001",
+    "CHECKINOUT": [
+      {
+        "CHECKTIME": "2018-01-18T07:27:42",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-18T07:27:57",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-18T17:04:40",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-19T07:39:50",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-19T17:02:17",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-19T17:02:38",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-20T07:36:15",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-20T17:00:26",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-22T07:36:44",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-22T07:37:02",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-22T17:03:08",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-23T07:33:32",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-23T17:03:01",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-24T07:38:18",
+        "CHECKTYPE": "I"
+      }
+    ]
+  },
+  {
+    "BADGENUMBER": "300003",
+    "CHECKINOUT": [
+      {
+        "CHECKTIME": "2018-01-18T07:29:28",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-18T17:06:54",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-19T07:40:46",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-19T17:07:13",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-20T07:37:26",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-20T17:47:43",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-22T07:38:17",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-22T17:05:10",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-23T07:34:29",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-23T17:04:00",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-24T07:41:49",
+        "CHECKTYPE": "I"
+      }
+    ]
+  },
+  {
+    "BADGENUMBER": "300004",
+    "CHECKINOUT": [
+      {
+        "CHECKTIME": "2018-01-18T07:28:28",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-18T17:06:39",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-19T07:39:46",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-19T17:05:56",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-19T17:07:27",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-20T07:36:12",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-20T17:00:42",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-22T07:37:53",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-22T17:03:13",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-23T07:33:47",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-23T17:02:55",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-24T07:38:23",
+        "CHECKTYPE": "I"
+      }
+    ]
+  },
+  {
+    "BADGENUMBER": "300005",
+    "CHECKINOUT": [
+      {
+        "CHECKTIME": "2018-01-18T07:19:53",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-18T17:05:14",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-19T07:32:12",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-19T17:07:21",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-20T07:36:18",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-20T09:34:50",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-20T17:00:56",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-22T07:39:29",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-22T17:08:20",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-23T07:04:37",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-23T17:04:13",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-24T06:57:28",
+        "CHECKTYPE": "I"
+      }
+    ]
+  },
+  {
+    "BADGENUMBER": "300006",
+    "CHECKINOUT": [
+      {
+        "CHECKTIME": "2018-01-20T07:35:46",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-20T17:01:01",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-22T10:13:49",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-22T17:03:36",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-23T08:04:41",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-23T17:03:25",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-24T07:38:35",
+        "CHECKTYPE": "I"
+      }
+    ]
+  },
+  {
+    "BADGENUMBER": "300007",
+    "CHECKINOUT": [
+      {
+        "CHECKTIME": "2018-01-18T07:25:14",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-18T17:07:42",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-19T07:40:04",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-19T17:09:10",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-20T07:35:32",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-20T17:03:04",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-22T07:36:24",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-22T17:01:21",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-23T07:32:55",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-23T17:09:19",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-24T07:37:54",
+        "CHECKTYPE": "I"
+      }
+    ]
+  },
+  {
+    "BADGENUMBER": "300008",
+    "CHECKINOUT": [
+      {
+        "CHECKTIME": "2018-01-17T16:20:16",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-17T17:44:13",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-18T09:38:29",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-18T16:37:21",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-19T09:11:42",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-19T17:09:24",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-20T07:58:55",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-22T09:24:42",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-22T16:01:14",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-23T09:35:35",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-23T16:55:50",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-24T08:33:35",
+        "CHECKTYPE": "I"
+      }
+    ]
+  },
+  {
+    "BADGENUMBER": "300009",
+    "CHECKINOUT": [
+      {
+        "CHECKTIME": "2018-01-18T07:30:46",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-18T17:28:55",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-18T18:40:49",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-19T06:25:00",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-19T17:24:02",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-20T07:26:19",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-20T17:02:36",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-22T07:33:00",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-22T19:00:02",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-23T07:35:31",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-23T17:09:10",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-24T07:37:07",
+        "CHECKTYPE": "I"
+      }
+    ]
+  },
+  {
+    "BADGENUMBER": "300010",
+    "CHECKINOUT": [
+      {
+        "CHECKTIME": "2018-01-18T07:42:55",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-20T07:29:19",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-20T17:03:12",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-22T07:16:50",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-22T17:01:51",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-23T07:25:04",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-23T17:09:06",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-24T07:33:32",
+        "CHECKTYPE": "I"
+      }
+    ]
+  },
+  {
+    "BADGENUMBER": "300011",
+    "CHECKINOUT": [
+      {
+        "CHECKTIME": "2018-01-20T09:33:11",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-20T17:00:18",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-22T07:38:12",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-22T17:02:28",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-23T07:33:37",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-23T17:03:07",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-24T07:38:07",
+        "CHECKTYPE": "I"
+      }
+    ]
+  },
+  {
+    "BADGENUMBER": "300012",
+    "CHECKINOUT": [
+      {
+        "CHECKTIME": "2018-01-18T07:27:24",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-18T17:05:56",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-19T07:40:09",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-19T17:08:42",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-19T17:08:52",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-20T07:35:59",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-20T17:01:15",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-22T07:37:17",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-22T17:01:45",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-23T07:33:14",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-24T07:39:00",
+        "CHECKTYPE": "I"
+      }
+    ]
+  },
+  {
+    "BADGENUMBER": "300013",
+    "CHECKINOUT": [
+      {
+        "CHECKTIME": "2018-01-18T07:25:22",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-18T07:25:23",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-18T18:39:40",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-18T18:39:55",
+        "CHECKTYPE": "i"
+      },
+      {
+        "CHECKTIME": "2018-01-18T18:40:42",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-19T17:07:59",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-20T07:35:51",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-22T07:36:34",
+        "CHECKTYPE": "I"
+      }
+    ]
+  },
+  {
+    "BADGENUMBER": "300014",
+    "CHECKINOUT": [
+      {
+        "CHECKTIME": "2018-01-18T07:45:41",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-18T17:07:33",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-19T07:50:25",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-19T17:09:03",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-20T07:55:08",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-20T17:01:09",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-22T07:36:05",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-22T17:01:32",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-23T07:53:24",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-24T07:58:19",
+        "CHECKTYPE": "I"
+      }
+    ]
+  },
+  {
+    "BADGENUMBER": "300015",
+    "CHECKINOUT": [
+      {
+        "CHECKTIME": "2018-01-18T07:28:35",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-18T17:05:26",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-19T07:40:32",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-19T17:02:55",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-20T07:36:05",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-20T17:00:51",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-22T07:38:06",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-22T17:03:22",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-23T07:34:19",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-23T17:03:20",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-24T07:38:29",
+        "CHECKTYPE": "I"
+      }
+    ]
+  },
+  {
+    "BADGENUMBER": "300040",
+    "CHECKINOUT": [
+      {
+        "CHECKTIME": "2018-01-19T07:39:36",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-19T17:05:02",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-20T07:35:08",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-20T07:38:47",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-20T16:53:07",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-23T07:34:07",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-23T17:01:44",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-24T07:38:47",
+        "CHECKTYPE": "I"
+      }
+    ]
+  },
+  {
+    "BADGENUMBER": "300042",
+    "CHECKINOUT": [
+      {
+        "CHECKTIME": "2018-01-18T07:31:40",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-18T07:31:42",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-18T17:06:01",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-19T07:40:56",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-19T07:40:57",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-19T17:03:37",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-20T07:36:33",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-20T16:55:48",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-22T07:38:23",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-22T17:03:47",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-23T07:34:24",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-23T17:04:19",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-24T07:38:54",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-24T07:38:55",
+        "CHECKTYPE": "I"
+      }
+    ]
+  },
+  {
+    "BADGENUMBER": "300057",
+    "CHECKINOUT": [
+      {
+        "CHECKTIME": "2018-01-18T07:29:22",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-18T17:07:25",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-19T07:34:08",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-19T17:07:54",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-20T07:29:52",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-22T07:06:24",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-22T17:03:17",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-23T07:34:40",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-23T17:02:50",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-24T07:27:03",
+        "CHECKTYPE": "I"
+      }
+    ]
+  },
+  {
+    "BADGENUMBER": "300058",
+    "CHECKINOUT": [
+      {
+        "CHECKTIME": "2018-01-18T07:33:13",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-18T17:05:20",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-19T07:37:56",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-19T17:08:22",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-20T07:31:50",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-20T16:56:09",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-22T17:03:41",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-23T07:40:59",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-23T17:03:42",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-24T07:30:28",
+        "CHECKTYPE": "I"
+      }
+    ]
+  },
+  {
+    "BADGENUMBER": "300059",
+    "CHECKINOUT": [
+      {
+        "CHECKTIME": "2018-01-18T07:32:51",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-18T07:32:52",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-18T17:04:49",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-19T07:37:36",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-19T17:03:50",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-19T17:04:37",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-20T07:51:35",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-20T16:55:56",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-23T07:35:20",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-23T17:02:20",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-24T07:48:00",
+        "CHECKTYPE": "I"
+      }
+    ]
+  },
+  {
+    "BADGENUMBER": "300060",
+    "CHECKINOUT": [
+      {
+        "CHECKTIME": "2018-01-18T13:07:54",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-18T17:03:38",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-18T17:04:34",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-19T07:55:15",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-19T17:02:51",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-19T17:04:16",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-20T07:51:26",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-20T16:56:46",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-23T07:35:11",
+        "CHECKTYPE": "I"
+      },
+      {
+        "CHECKTIME": "2018-01-23T17:02:07",
+        "CHECKTYPE": "O"
+      },
+      {
+        "CHECKTIME": "2018-01-24T07:47:54",
+        "CHECKTYPE": "I"
+      }
+    ]
+  }
+]

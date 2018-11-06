@@ -1,0 +1,1 @@
+<form action="<?php echo site_url('employees/add_salary/' . $employee_id); ?>" method="post"></form>

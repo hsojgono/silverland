@@ -1,0 +1,19 @@
+.rejected_color{
+	background-color: #c85080;
+}
+
+.pending_color{
+	background-color: #5bd7e7;
+}
+
+.approved_color{
+	background-color: #83C379;
+}
+
+.cancelled_color{
+	background-color: #ffb446;
+}
+
+.validation_error {
+	color: #c85050;
+}
